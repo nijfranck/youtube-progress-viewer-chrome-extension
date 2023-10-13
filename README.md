@@ -1,2 +1,2 @@
 # ywp
-privacy policy for youtube watch percentage chrome extension
+A Chrome extension that displays the percentage of watched time in YouTube videos.
