@@ -1,4 +1,4 @@
-# Privacy Policy for the YouTube Watched Percentage Extension
+# Privacy Policy for the YouTube Progress Viewer Chrome Extension
 
 This extension does not collect, store, or transmit any personal data from its users.
 
